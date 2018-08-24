@@ -1,4 +1,4 @@
-# Cubed.css
+# Cubed CSS
 
 > Lightweight, responsive, and accessible CSS framework
 
@@ -8,7 +8,7 @@
 
 ### Lightweight
 
-Cubed.css is written with as little CSS as possible, but still provides most of the components you'll need to build clean and elegant webpages. It's small in size and easy to get started.
+Cubed CSS is written with as little CSS as possible, but still provides most of the components you'll need to build clean and elegant webpages. It's small in size and easy to get started.
 
 ### Responsive & Accessible
 
@@ -16,7 +16,7 @@ Built using REM or EM based components maximize responsiveness and enhance acces
 
 ### Themeable
 
-Cubed.css is written with SCSS, which allows you to customize every aspect of the framework via variables, so that it'll fit your needs.
+Cubed CSS is written with SCSS, which allows you to customize every aspect of the framework via variables, so that it'll fit your needs.
 
 ## License
 
